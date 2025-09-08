@@ -1,2 +1,2 @@
 # sigma-demo
-this is demo of sigma
+this is demo of sigma.class
